@@ -1,5 +1,5 @@
 provider "github" {
-  owner = "wojciech12"
+  owner = "matko13"
 }
 
 resource "github_repository" "my_repo" {
